@@ -1,0 +1,17 @@
+.header__button {
+    padding: 5px;
+    background-color: #c5e1f6;
+    border-color: #2489bf;
+    text-align: center;
+    margin-left: 43%;
+}
+
+.header__title {
+    text-align: center;
+    color: #3535ba;
+    background-color: rgba(105, 255, 227, 0.26);
+}
+
+.header__afterButton {
+    color: #f90095;
+}

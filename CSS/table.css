@@ -1,0 +1,35 @@
+.table__title {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #8dc2dd53;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.table__design {
+    font-family: Lato, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-style: groove;
+    border-color: rgb(65, 65, 146);
+    border-width: 12px;
+
+}
+
+.table__cell--header {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 19px;
+    font-weight: bold;
+    background-color: rgba(156, 206, 238, 0.296);
+}
+
+.table__cell {
+    border: 1px solid #ccc;
+    padding: 22px;
+    text-align: center;
+}
+
+.table__row:hover {
+    background-color: rgba(200, 207, 223, 0.448);
+}

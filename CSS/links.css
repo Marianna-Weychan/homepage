@@ -1,0 +1,21 @@
+.links__title {
+    color: rgb(19, 30, 157);
+}
+
+.links__list {
+    list-style-type: "\1F44D";
+}
+
+.links__design {
+    color: #1203b1;
+    text-decoration: none;
+}
+
+.links__design:hover {
+    border: 2px solid;
+    color: #1c08f8;
+}
+
+.links__design:active {
+    color: #e00f2e;
+}

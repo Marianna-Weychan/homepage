@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: Lato, sans-serif;
+    line-height: 2;
+    padding: 40px 0;
+}
+
+.section {
+    color: #090fc5;
+}
+
+.navigation {
+    text-align: center;
+    font-style: italic;
+    border-bottom: 2px solid rgb(55, 55, 207);
+}
+
+.table {
+    overflow-x: auto;
+}
+
+.links {
+    min-width: -1500px;
+    background-color: rgba(212, 249, 249, 0.57);
+    position: relative;
+    box-shadow: 18px 20px 14px 0px #AAB3E2;
+    padding: 20px;
+    margin: 20px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #b2bae16e;
+}
