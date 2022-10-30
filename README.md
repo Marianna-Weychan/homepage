@@ -1,5 +1,5 @@
 # Marianna Weychan - my first website
-![Marianna Weychan](images/share2.png)
+![Marianna Weychan](images/Opengraph.png)
 ## 🦸‍♀️Demo
 (https://marianna-weychan.github.io/Homepage/)
 
