@@ -1,9 +1,17 @@
-# Marianna Weychan - moja strona
-![Marianna Weychan](images/Marianna.jpg)
-## Demo
+# Marianna Weychan - my first website
+![Marianna Weychan](images/share2.png)
+## 🦸‍♀️Demo
 (https://marianna-weychan.github.io/Homepage/)
 
-## Short descripion
+## ⌨️ Short description
 
-A website that presents my person, my professional experience, passions, interests and achievements to date.
-I used java script language and css styling (BEM convention)
+My first self-created website presenting my person, my professional experience, passions, hobbies, interests and achievements so far.
+The website will develop as I learn new technologies and conventions while learning towards Frontend Developer.
+## 
+
+## 👩‍💻Used Technoligies:
+- HTML,
+- CSS,
+- BEM convention,
+- Java Script,
+- Git
