@@ -1,7 +1,7 @@
 # Marianna Weychan - my first website
 ![Marianna Weychan](images/Opengraph.png)
 ## 🦸‍♀️Demo
-(https://marianna-weychan.github.io/Homepage/)
+[Link to the demo](https://marianna-weychan.github.io/Homepage/)
 
 ## ⌨️ Short description
 
