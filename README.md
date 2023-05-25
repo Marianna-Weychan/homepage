@@ -5,8 +5,8 @@
 
 ## ⌨️ Short description
 
-My first self-created website presenting my person, my professional experience, passions, hobbies, interests and achievements so far.
-The website will develop as I learn new technologies and conventions while learning towards Frontend Developer.
+My first self-created website presenting briefly my person, professional experience, passions, hobbies, interests and previous achievements.
+I created it as part of learning at the YouCode programming school during the course: Frontend Developer from scratch.
 ## 
 
 ## 👩‍💻Used Technoligies:
